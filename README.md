@@ -40,15 +40,15 @@ streamlit run app.py
 ---
 ### Tech Stack
 
--Streamlit → UI
+- Streamlit → UI
 
--Ollama → Local embeddings
+- Ollama → Local embeddings
 
--Groq → LLM (llama-3.3-70b)
+- Groq → LLM (llama-3.3-70b)
 
--FAISS → Vector store
+- FAISS → Vector store
 
--LangChain → Everything else
+- LangChain → Everything else
 
 
 ---
