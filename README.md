@@ -55,4 +55,12 @@ streamlit run app.py
 
 ### Screenshot
 
+1. When vector store for the first time:
+<img width="1920" height="1080" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/75c0e705-f0b1-4c03-893c-7722046bdddc" />
+
+2. When vector store ready:
+<img width="1920" height="1080" alt="Screenshot (343)" src="https://github.com/user-attachments/assets/402f4847-c13a-40e2-8c51-03fc69e299e8" />
+
+3. Now final output:
+<img width="1920" height="1080" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/82352a47-caeb-419d-8d3a-e7c1fa62f665" />
 
