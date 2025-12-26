@@ -1,6 +1,5 @@
 # LangSmith RAG Chatbot  
 
-**Fully working RAG chatbot** jo LangSmith ki official documentation pe trained hai  
 - Local embeddings → **Ollama (nomic-embed-text)**  
 - Fast inference → **Groq (llama-3.3-70b)**  
 - Real-time answers with perfect formatting & code blocks  
